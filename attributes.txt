@@ -1,0 +1,8 @@
+<html>
+<body>
+    <p align="center">this is web page of sbjain</p>
+    <p align="right">this is web page of sbjain</p>
+    <p align="left">this is web page of sbjain</p>
+    <p align="justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim quos dicta laborum, assumenda quo nam neque dolores est error a saepe laboriosam! Ab error labore explicabo et eaque, quisquam corrupti?</p>
+</body>
+</html>
